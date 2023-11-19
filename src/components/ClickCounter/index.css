@@ -1,0 +1,23 @@
+.text {
+  color: #2d3a35;
+  font-size: 44px;
+  font-family: 'Roboto';
+}
+
+.description {
+  color: #f1f5f8;
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+
+.countElement {
+  color: #c20a72;
+  font-size: 44px;
+  font-family: 'Roboto';
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  font-size: 22px;
+}
